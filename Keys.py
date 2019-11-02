@@ -67,11 +67,11 @@ team_baron_kills = 'teambaronkills'
 opp_baron_kills = 'oppbaronkills'
 
 dmg_to_champs = 'dmgtochamps'
-dmg_to_champs_per_min = 'dmgtochampspermin'
+dmg_to_champs_per_min = 'dmgtochampsperminute'
 dmg_share = 'dmgshare'
 
 wards = 'wards'
-wards_per_min = 'wardspermin'
+wards_per_min = 'wpm'
 ward_share = 'wardshare'
 ward_kills = 'wardkills'
 wcpm = 'wcpm' # TODO: Ask Tim what this is
@@ -93,6 +93,7 @@ opp_gold_at_15 = 'oppgoldat15'
 gd_at_15 = 'gdat15'
 
 xp_at_10 = 'xpat10'
+xpd_at_10 = 'xpdat10'
 opp_xp_at_10 = 'oppxpat10'
 
 minion_kills = 'minionkills'
